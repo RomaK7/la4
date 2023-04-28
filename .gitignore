@@ -1,0 +1,3 @@
+touch .gitignore
+echo "log*" > .gitignore
+echo "error*" >> .gitignore
